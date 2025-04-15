@@ -1,0 +1,5 @@
+**Highway Driver 2D - Created by me (prakhyatdraw)**
+
+This game is about a driver driving through a highway. The driver must not collide with the vehicles in the game nor should cross the dividers. If that is the case, a life is lost. Also the driver must not go too fast over the speedbreakers.
+
+This game uses **Python** and the *Pygame* library. 

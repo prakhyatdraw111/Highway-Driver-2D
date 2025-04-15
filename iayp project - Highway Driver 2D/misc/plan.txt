@@ -1,0 +1,34 @@
+Made in Python with Pygame Module
+
+Video Game based on my liking of roads and highways. Inspired by Subway Surfers
+2D video game of a vehicle going fast on the highway, overtaking vehicles and speed limit, maintaining 
+its speed so that the player doesnt go too fast 
+
+Main features
+-> Power ups
+-> Money bags
+-> Score count and sapphires
+-> Customisable vehicles
+-> Brake pedal
+-> Single road and double roads
+
+Plan
+-> Setting up window
+-> Creating the road and lines
+-> Creating the player vehicle and movement
+-> Creating the speedometer and brake pedal
+-> Creating the other vehicles, lives and obstacles
+-> Creating switchable lanes
+-> Creating sapphires, money bags 
+-> End menu and start menu
+-> Creating the speed cameras and speed guns and power ups
+-> total coin storage
+-> Various types of roads
+-> Junctions and guided travel
+-> Creating scenery and travels and animations
+
+
+to be added to version 2
+-> police glide to new if afterwards speed up
+
+
